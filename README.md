@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Link de referencia
+- https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/
+## Imagenes
+- ![image](https://github.com/BeltranJ128/UIII-A1-Login/assets/143763139/63be5f72-e0ab-422c-aedb-255737b18462)
+- ![image](https://github.com/BeltranJ128/UIII-A1-Login/assets/143763139/b124c2f3-47be-44bf-89c8-94df07fa6f54)
